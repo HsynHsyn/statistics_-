@@ -1,7 +1,7 @@
 # Statistics
 
 ## HOMEWORK
-## 1)Titanic(titanic.csv) data and write down what the columns mean and what values are they composed of? 
+## 1)Titanic<a href="https://github.com/InfotechAcademy/statistics_-/blob/main/titanic.csv">(titanic.csv)</a> data and write down what the columns mean and what values are they composed of? 
 
 ## 2)Which are the two columns with the highest correlation in Titanic data?
 
