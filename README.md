@@ -14,7 +14,7 @@
     and
     f) Draw the graph boxplot
 
-## 4) “penguins”(peguins.csv) data . Find
+## 4) “penguins”<a href="https://github.com/InfotechAcademy/statistics_-/blob/main/penguins.csv">(peguins.csv)</a> data . Find
     a) How many rows and columns
     b) Find the 2 columns with the highest correlation and draw this in the scatterplot?
 
